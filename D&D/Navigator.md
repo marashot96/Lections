@@ -16,7 +16,7 @@
 
 ## Дополнительные ссылки и литература
 При желании подробнее разобраться с тем, что было пройдено на семинаре, можно посетить следующие ресурсы:
-- [Ю.В. ПРОХОРОВ, Ю.A. РОЗАНОВ  "Теория вероятностей"](https://publ.lib.ru/ARCHIVES/S/''Spravochnaya_matematicheskaya_biblioteka''_(seriya)/%CF%F0%EE%F5%EE%F0%EE%E2%20%DE.%C2.,%20%D0%EE%E7%E0%ED%EE%E2%20%DE.%C0._%20%D2%E5%EE%F0%E8%FF%20%E2%E5%F0%EE%FF%F2%ED%EE%F1%F2%E5%E9.%20%CE%F1%ED%EE%E2%ED%FB%E5%20%EF%EE%ED%FF%F2%E8%FF.%20%CF%F0%E5%E4%E5%EB%FC%ED%FB%E5%20%F2%E5%EE%F0%E5%EC%FB.%20%D1%EB%F3%F7%E0%E9%ED%FB%E5%20%EF%F0%EE%F6%E5%F1%F1%FB.(1967).pdf) - глава 1 пар. 4 и 5.
+- [Ю.В. Прохоров, Ю.A. Розанов  "Теория вероятностей"](https://publ.lib.ru/ARCHIVES/S/''Spravochnaya_matematicheskaya_biblioteka''_(seriya)/%CF%F0%EE%F5%EE%F0%EE%E2%20%DE.%C2.,%20%D0%EE%E7%E0%ED%EE%E2%20%DE.%C0._%20%D2%E5%EE%F0%E8%FF%20%E2%E5%F0%EE%FF%F2%ED%EE%F1%F2%E5%E9.%20%CE%F1%ED%EE%E2%ED%FB%E5%20%EF%EE%ED%FF%F2%E8%FF.%20%CF%F0%E5%E4%E5%EB%FC%ED%FB%E5%20%F2%E5%EE%F0%E5%EC%FB.%20%D1%EB%F3%F7%E0%E9%ED%FB%E5%20%EF%F0%EE%F6%E5%F1%F1%FB.(1967).pdf) - глава 1 пар. 4 и 5.
 
 - [Соотношение между экспоненциальным распределением и распределением Пуассона](https://stats.stackexchange.com/questions/2092/relationship-between-poisson-and-exponential-distribution)
 
