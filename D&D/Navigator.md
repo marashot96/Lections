@@ -13,7 +13,8 @@
 | 6 | [`Графики изученных распределений случайных величин`](/D%26D/graphs.ipynb) | Ноутбук, в котором собраны графики функций плотности и распределения изученных аспределений случайных величин |
 
 ## Материалы с занятия
-- [Здесь](/D%26D/open_ur_1.ipynb) находится ноутбук, с которым мы работали на семинаре. Также его можно запустить на Colab:
+[Здесь](/D%26D/open_ur_1.ipynb) находится ноутбук, с которым мы работали на семинаре. Также его можно запустить на Colab: <div align="left"> <a href="https://colab.research.google.com/github/marashot96/Lections/blob/main/D%26D/open_ur_1.ipynb" target="_blank"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
+</a> </div>
 
 ## На проработку
 Рекомендуется выполнить 2-3 задания из [данного блока](https://github.com/marashot96/Lections/blob/main/D%26D/01_homework.md) для закрепления пройденного материала, а также изучения возможностей `scipy.stats`. При выполнении заданий рекомендуется воспользоваться подготовленными файлом с [документацией модуля scipy.stats](/D%26D/scipy-stats.ipynb), [ноутбуком с занятия](/D%26D/open_ur_1.ipynb).
