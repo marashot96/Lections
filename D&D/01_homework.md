@@ -1,3 +1,5 @@
+<div align='center'> <a href="https://github.com/marashot96/Lections/blob/main/D%26D/Navigator.md"> Обратно к информации по семинару </a> </div>
+
 # <div align='center'> Домашнее задание: Анализ распределений и моделирование случайных величин </div>
 
 ## Цель
