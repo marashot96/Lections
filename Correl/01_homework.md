@@ -1,3 +1,8 @@
+<div align='center'>  
+   <a href='https://github.com/marashot96/Lections/blob/main/Correl/Navigator.md#информация-о-семинаре'> Обратно к информации по семинару </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href='https://github.com/marashot96/Lections/tree/main?tab=readme-ov-file#структура'> Все семинары </a>  
+</div>
+
 # <div align = 'center'> Домашний проект: Корреляционный анализ фрода в PaySim </div>
 
 ## Цель
@@ -69,3 +74,8 @@
 - Все расчёты снабжать интерпретацией
 
 Удачи!
+
+<div align='center'>  
+   <a href='https://github.com/marashot96/Lections/blob/main/Correl/Navigator.md#информация-о-семинаре'> Обратно к информации по семинару </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href='https://github.com/marashot96/Lections/tree/main?tab=readme-ov-file#структура'> Все семинары </a>  
+</div>
