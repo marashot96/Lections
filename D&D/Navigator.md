@@ -1,3 +1,7 @@
+<div align='center'> 
+   <a href='https://github.com/marashot96/Lections/tree/main?tab=readme-ov-file#структура'> Все семинары </a>  
+</div>
+
 # <div align='center'> Основные распределения случайных величин </div>
 
 Добро пожаловать на информативное описание занятия. 
@@ -32,3 +36,7 @@
 - [Соотношение между экспоненциальным распределением и распределением Пуассона](https://stats.stackexchange.com/questions/2092/relationship-between-poisson-and-exponential-distribution)
 
 - [Полезная ссылка по экспоненциальному распределению](https://www.statology.org/exponential-distribution-python/)
+
+<div align='center'> 
+   <a href='https://github.com/marashot96/Lections/tree/main?tab=readme-ov-file#структура'> Все семинары </a>  
+</div>
