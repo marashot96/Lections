@@ -1,3 +1,7 @@
+<div align='center'>  
+   <a href='https://github.com/marashot96/Lections/tree/main?tab=readme-ov-file#структура'> Все семинары </a>  
+</div>
+
 # <div align = 'center'> Ковариация и корреляция </div>
 
 
@@ -39,3 +43,6 @@
 - [ Подробное описание Корреляции Крамера ](https://ru.statisticseasily.com/Крамерс-В./)
 
 
+<div align='center'>  
+   <a href='https://github.com/marashot96/Lections/tree/main?tab=readme-ov-file#структура'> Все семинары </a>  
+</div>
