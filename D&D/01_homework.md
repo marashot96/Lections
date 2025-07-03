@@ -1,5 +1,5 @@
 <div align='center'> 
-   <a href='https://github.com/marashot96/Lections/blob/main/Correl/Navigator.md#информация-о-семинаре'> Обратно к информации по семинару </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href='https://github.com/marashot96/Lections/blob/main/D%26D/Navigator.md#на-проработку'> Обратно к информации по семинару </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href='https://github.com/marashot96/Lections/tree/main?tab=readme-ov-file#структура'> Все семинары </a>  
 </div>
 
@@ -115,6 +115,6 @@ plt.show()
 ```
 
 <div align='center'> 
-   <a href='https://github.com/marashot96/Lections/blob/main/Correl/Navigator.md#информация-о-семинаре'> Обратно к информации по семинару </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href='https://github.com/marashot96/Lections/blob/main/D%26D/Navigator.md#на-проработку'> Обратно к информации по семинару </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href='https://github.com/marashot96/Lections/tree/main?tab=readme-ov-file#структура'> Все семинары </a>  
 </div>
