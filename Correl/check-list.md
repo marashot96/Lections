@@ -1,4 +1,4 @@
-<div align='center'> | [Обратно к информации по семинару](/Correl/Navigator.md#информация-о-семинаре) | [Все семинары](README.md#структура) |
+<div align='center'> | <a href='https://github.com/marashot96/Lections/blob/main/Correl/Navigator.md#информация-о-семинаре'> Обратно к информации по семинару </a> | <a href='https://github.com/marashot96/Lections/tree/main?tab=readme-ov-file#структура'> Все семинары </a> |
 |--- | ----- | </div>
 
 # <div align = 'center'> Чек-лист структуры корреляционного анализа </div>
