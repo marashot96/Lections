@@ -72,5 +72,7 @@
 > Используйте этот шаблон как основу для домашнего проекта. Вы можете адаптировать структуру под свои цели, но наличие всех этапов анализа обязательно.
 
 
-| [Обратно к информации по семинару](/Correl/Navigator.md#информация-о-семинаре) | [Все семинары](README.md#структура) |
-|--- | ----- |
+<div align='center'>  
+   <a href='https://github.com/marashot96/Lections/blob/main/Correl/Navigator.md#информация-о-семинаре'> Обратно к информации по семинару </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href='https://github.com/marashot96/Lections/tree/main?tab=readme-ov-file#структура'> Все семинары </a>  
+</div>
