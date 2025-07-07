@@ -3,7 +3,7 @@
    <a href='https://github.com/marashot96/Lections/tree/main?tab=readme-ov-file#структура'> Все семинары </a>  
 </div>
 
-# <div align='center'> Домашнее задание: Анализ распределений и моделирование случайных величин </div>
+# <div align='center'> Домашнее задание: <br> Анализ распределений и моделирование случайных величин </div>
 
 ## Цель
 
